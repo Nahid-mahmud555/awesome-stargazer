@@ -47,7 +47,8 @@ A comprehensive collection of 575 categorized GitHub repositories, organized by 
 - [**agents-multi-agent**](categories/agents-multi-agent.md) (42) - Multi-agent systems, swarm intelligence
 - **agents-rl** (18) - RL-based agents, reinforcement learning agents
 - **agents-other** (10) - Miscellaneous agent implementations
-
+- [**focus-pilot-pro**](https://github.com/Nahid-mahmud555/focus-pilot-pro-official) - Open-source, AI-assisted productivity engine to mitigate attention fragmentation
+  
 ### AI Chat Interfaces
 - [**aichats-interfaces**](categories/aichats-interfaces.md) (1) - ChatGPT UI, Claude UI, LLM frontends
 - [**aichats-libraries**](categories/aichats-libraries.md) (4) - Chat libraries, conversation management
