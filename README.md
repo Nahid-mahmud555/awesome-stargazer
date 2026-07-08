@@ -47,8 +47,6 @@ A comprehensive collection of 575 categorized GitHub repositories, organized by 
 - [**agents-multi-agent**](categories/agents-multi-agent.md) (42) - Multi-agent systems, swarm intelligence
 - **agents-rl** (18) - RL-based agents, reinforcement learning agents
 - **agents-other** (10) - Miscellaneous agent implementations
-- [**focus-pilot-pro**](https://github.com/Nahid-mahmud555/focus-pilot-pro-official) - Open-source, AI-assisted productivity engine to mitigate attention fragmentation
-  
 ### AI Chat Interfaces
 - [**aichats-interfaces**](categories/aichats-interfaces.md) (1) - ChatGPT UI, Claude UI, LLM frontends
 - [**aichats-libraries**](categories/aichats-libraries.md) (4) - Chat libraries, conversation management
@@ -436,7 +434,7 @@ A comprehensive collection of 575 categorized GitHub repositories, organized by 
 - [**ide-cloud-dev**](categories/ide-cloud-dev.md) (1) - Gitpod, Codespaces, Replit
 - [**ide-terminal-based**](categories/ide-terminal-based.md) (88) - Terminal IDEs, TUI editors
 - **ide-other-1** through **ide-other-4** (90, 90, 90, 18) - General IDE tools
-
+- - [**focus-pilot-pro**](https://github.com/Nahid-mahmud555/focus-pilot-pro-official) - Open-source, AI-assisted productivity engine to mitigate attention fragmentation
 ### Terminal Tools (320 repos split)
 - [**terminal-emulators**](categories/terminal-emulators.md) (88) - Alacritty, Kitty, WezTerm
 - [**terminal-multiplexers**](categories/terminal-multiplexers.md) (14) - tmux, screen, Zellij
